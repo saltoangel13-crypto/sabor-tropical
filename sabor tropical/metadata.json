@@ -1,0 +1,6 @@
+{
+  "name": "Sabor Tropical",
+  "description": "Jugos 100% naturales con frutas cosechadas en la República Dominicana. Ubicados en Santo Domingo Oeste, entregas a domicilio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
